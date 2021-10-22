@@ -13,7 +13,7 @@
 
 ## Demonstration
 
-[svelte-debug-console demo](https://basaran.github.io/svelte-debug-console/)
+[svelte-debug-console demo](https://basaran.github.io/svelte-recaptcha-v2/)
 
 ## Getting Started
 ```bash
