@@ -23,7 +23,7 @@ pnpm install -D svelte-debug-console
 
 ## Basic Usage
 
-Import the library onto your template and update your google key:
+Import the library onto your template:
 
 ```js
 import { Debug } from "svelte-debug-console";
@@ -48,3 +48,9 @@ For some use cases, this may not be desired.
 
 If any trouble, please create an issue. PRs are most welcome.
 
+## Todo
+
+- [ ] Add CSS variables to allow console customization
+- [ ] Improve line formatting to distinct between the message and the label. (probably an arrow or something in between)
+- [ ] Add copy to clipboard option
+- [ ] Add filtering and search
